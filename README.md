@@ -1,18 +1,14 @@
 # Hi there! 👋  I'm Alex
 
-<!--
-**APWilson97/APWilson97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+- 💻 Junior Software Engineer recently graduated from the Makers Academy Software Development Bootcamp (July - October 2023)
+- 🔍 Currently looking for Full-Stack, Backend and Frontend Engineer opportunities
+- 🌏 Previously worked in Japan 🗾 for 4 years in Customer Service, Recruitment Consulting and Translation
+- 💭 Passion for learning new technologies and skills, currently learning Java
+- 🌟 Hobbies: Photography 📷, Reading Epic Fantasy Novels 📚, Gaming 🎮, Music 🎧
+- 🗨️ Connect with me on Linkedin <a href='www.linkedin.com/in/alexander-wilson-83737514b'>here</a>
 
-# 💻 Tech Stack:
+
+## Tech Stack:
