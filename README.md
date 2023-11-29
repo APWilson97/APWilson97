@@ -8,7 +8,7 @@
 - 🌏 Previously worked in Japan 🗾 for 4 years in Customer Service, Recruitment Consulting and Translation
 - 💭 Passion for learning new technologies and skills, currently learning Java
 - 🌟 Hobbies: Photography 📷, Reading Epic Fantasy Novels 📚, Gaming 🎮, Music 🎧
-- 🗨️ Connect with me on Linkedin [here](www.linkedin.com/in/alexander-wilson-83737514b)
+- 🗨️ Connect with me on Linkedin [here](https://www.linkedin.com/in/alexander-wilson-83737514b)
 
 
 ## Tech Stack:
